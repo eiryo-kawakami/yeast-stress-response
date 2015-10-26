@@ -1,0 +1,218 @@
+class	id	name	speciesType	compartment	positionToCompartment	included	quantity type	initialQuantity	substanceUnits	hasOnlySubstanceUnits	b.c.	constants	MIRIAM[relation]	MIRIAM[datatype]	MIRIAM[id]	MIRIAM[relation]	MIRIAM[datatype]	MIRIAM[id]
+PROTEIN	s6110	Mcm1		c1	inside					FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001412			
+PROTEIN	s111	Cln2		c1	inside					FALSE	FALSE	FALSE	bqmodel:is	SGD	S000006177			
+PROTEIN	s3	Ste7		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002318			
+PROTEIN	s6902	Ste12		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001126			
+PROTEIN	s15	Ste5		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000537			
+PROTEIN	s6120	Bem3		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000006036			
+PROTEIN	s6121	Rga1		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000005653			
+PROTEIN	s6133	Sst2		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000004444			
+PROTEIN	s76	Cdc28		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000364			
+PROTEIN	s22	Far1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000003693			
+GENE	s6153	MSG5		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s6154	MSG5		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s6155	Msg5		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000004998			
+PROTEIN	s6183	Bem1		c3	innerSurface		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000404			
+PROTEIN	s6900	Ste12		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001126			
+PROTEIN	s6901	Pse1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000004925			
+PROTEIN	s6956	Cla4		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000005242			
+PROTEIN	s6957	Ptp2		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000005734			
+PROTEIN	s6958	Ptp3		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000877			
+GENE	s6968	FAR1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s6969	FAR1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s6974	Dig1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000005970			
+PROTEIN	s6975	Dig2		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002888			
+PROTEIN	s7008	Kss1		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000003272			
+RNA	s7018	FLO11		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s7019	FLO11		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7022	Flo8		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000911			
+PROTEIN	s7023	Flo8		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000911			
+PROTEIN	s7024	Tec1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000287			
+PROTEIN	s33	Ste5		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000537			
+PROTEIN	s7052	Mf(alpha)1/2		default	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000006108			
+GENE	s18	FUS3		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s19	Ste5		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000537			
+PROTEIN	s20	Fus3		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000112			
+PROTEIN	s24	Kss1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000003272			
+PROTEIN	s71	Fus3		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000112			
+PROTEIN	s72	Fus3		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000112			
+PROTEIN	s84	Ste20		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000999			
+PHENOTYPE	s85	Recovery from G1 arrest		c3	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s90	Ste3		c3	insideOfMembrane		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001661			
+PROTEIN	s102	Cdc24		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000039			
+PROTEIN	s106	Far1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000003693			
+PROTEIN	s6712	Cdc4		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001885			
+COMPLEX	s6704	SCF Cdc4 complex		c1	inside	s6704(s6706(s8829 s8830 s8831 s8832) s6711)	Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s117	Far1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000003693			
+PROTEIN	s135	Cdc24		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000039			
+PROTEIN	s7096	Ste50		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000537			
+PROTEIN	s7139	Ste7		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002318			
+PHENOTYPE	s7191	Polarized Growth		c3	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7200	Cdc24		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000039			
+PROTEIN	s7204	Ste12		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001126			
+RNA	s7208	FUS3		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s7209	STE2		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s7210	STE2		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s7212	SST2		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s7213	SST2		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s7214	GPA1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s7215	GPA1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s7217	FUS1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s7218	FUS2		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s7219	FIG1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s7220	FIG2		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s7221	AGA1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s7222	FUS1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s7223	FUS2		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s7224	FIG1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s7225	FIG2		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s7226	AGA1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7017	Sfl1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000005666			
+PROTEIN	s7021	Tpk2		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000006124			
+PROTEIN	s7074	Tpk1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000003700			
+PROTEIN	s7075	Tpk3		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001649			
+RNA	s7251	TEC1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7252	Tec1		c1	innerSurface		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000287			
+PROTEIN	s7253	Tec1		c1	innerSurface		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000287			
+DEGRADED	s7254	sa431_degraded		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7298	Ste3		c4	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001661			
+DEGRADED	s7299	sa449_degraded		c4	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7378	Ubc1		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002499			
+PROTEIN	s7379	Ubc4		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000286			
+PROTEIN	s7380	Ubc5		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002466			
+PROTEIN	s7381	Ste2		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000999			
+DEGRADED	s7383	sa464_degraded		c4	inside		Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7407	SCF complex		c1	inside	s7407(s7408 s7409 s7410 s7411)	Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7440	Fus3		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000112			
+DEGRADED	s7441	sa231_degraded		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7064	Dig2		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002888			
+PROTEIN	s7063	Dig1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000005970			
+DEGRADED	s7062	sa276_degraded		c3	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7464	Dia2		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000005606			
+PROTEIN	s7465	Msn5		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002743			
+PROTEIN	s7468	Ste7		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002318			
+PHENOTYPE	s6173	G1/S transition		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7020	Sfl1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000005666			
+PROTEIN	s7053	Mfa1/2		default	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002869	bqmodel:is	SGD	S000005089
+DEGRADED	s7519	sa86_degraded		default	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7520	Bar1		default	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001277			
+PROTEIN	s7521	Bar1		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001277			
+PROTEIN	s88	Ste11		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000004354			
+COMPLEX	s7550	 a-factor/Ste3		c3	innerSurface	s7550(s7750 s7751)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7551	a-factor/Ste3		c3	inside	s7551(s6112 s6113)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7554	alpha-factor/Ste2		c3	transmembrane	s7554(s7770 s8692)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7555	alpha-factor/Ste2/Sst2		c3	transmembrane	s7555(s7765(s7771 s8694) s8695)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7558	Ste50/Ste11		c3	inside	s7558(s6877 s6878)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7559	GDP Gpa1/Ste4/Ste18		c3	transmembrane	s7559(s7778(s8700 s8701) s8699 s8698)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7560	GTP Gpa1		c3	inside	s7560(s7738 s6128)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7563	GDP Gpa1		c3	inside	s7563(s6131 s6132)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7627	Cdc24/Far1/Ste4/Ste18		c3	transmembrane	s7627(s7568(s8848 s8849) s7591(s144 s145))	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7628	Bem1/GTP/Cdc42/Cdc24/Far1/Ste4/Ste18/Ste20		c3	inside	s7628(s7630(s7632(s7633 s7634) s7631) s7635(s7636(s7637 s7638) s7639(s7640 s7641)) s7629)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7642	Cdc24/Far1		c3	transmembrane	s7642(s7179 s7180)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7646	GTP/Rsr1		c3	innerSurface	s7646(s7175 s7176)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7648	Cdc24/GTP/Rsr1		c3	inside	s7648(s7647(s6186 s6184) s7173)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7649	Bem1/GTP/Cdc42/Cdc24/GTP/Rsr1		c3	inside	s7649(s7644(s7183 s7184) s7643(s7645(s7193 s7194) s7187) s7337)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7652	Bem1/GTP/Cdc42/GTP/Rsr1		c3	inside	s7652(s7650(s7339 s7340) s7651(s7188 s7189) s7393)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7654	Dig1/Dig2/Ste12		c1	inside	s7654(s6999 s7000 s7001)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7656	Ste12/Tec1		c1	inside	s7656(s7473 s7472)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7657	Dig1/Ste12/Tec1		c1	inside	s7657(s7238 s7239 s7244)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7658	Dig1/Ste12/Tec1		c1	inside	s7658(s7240 s7333 s7442)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7660	Mcm1/Ste12		c1	inside	s7660(s7229 s7230)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7661	Ste12/Tec1		c1	inside	s7661(s7475 s7476)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7662	Cyc8/Tup1/Sfl1		c1	inside	s7662(s7711(s7413 s7414) s7415)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7663	Cyc8/Tup1/Sfl1		c1	inside	s7663(s7713(s7744 s7037) s7043)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7664	Cdc28/Cln2		c1	inside	s7664(s8762 s8763)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7665	Cdc28/Cln2/Far1		c1	inside	s7665(s7735(s7736 s7737) s97)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7666	Cdc28/Cln2/Far1		c1	inside	s7666(s7669(s7335 s7336) s109)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7667	Cdc28/Cln2/Far1		c1	inside	s7667(s7670(s115 s116) s114)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7671	Cdc24/Far1		c1	inside	s7671(s122 s123)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7681	Ste5/Ste50/Ste11/Ste7/Kss1		c3	inside	s7681(s7690(s7431 s7432) s7285 s7406 s7161)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7682	Ste5/Ste50/Ste11/Ste7/Kss1		c3	inside	s7682(s7688(s7130 s7316) s7403 s7151 s7405)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7683	Ste5/Ste50/Ste11/Ste7/Kss1		c3	inside	s7683(s7685(s7396 s7397) s6897 s7398 s7399)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7684	Mpt5/Sst2		c3	inside	s7684(s7 s8)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7693	Ste5/Ste50/Ste11/Ste7/Fus3		c3	inside	s7693(s7689(s7328 s7160) s7329 s7330 s7327)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7694	Ste5/Ste50/Ste11/Ste7/Fus3		c3	inside	s7694(s7687(s7428 s7429) s7326 s7134 s7325)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7695	Ste5/Ste50/Ste11/Ste7/Fus3		c3	inside	s7695(s7686(s7524 s7523) s7060 s7324 s6869)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7710	Dia2/SCF complex		c1	inside	s7710(s8833(s8834 s8835 s8836 s8837) s7073)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7712	Cyc8/Tup1		c1	inside	s7712(s7029 s7030)	Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7382	Ste2		c4	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000999			
+PROTEIN	s7729	Yck2		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000005098			
+PROTEIN	s7730	Yck1		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001177			
+PROTEIN	s7731	Kss1		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000003272			
+PROTEIN	s6122	Rga2		c3	inside					FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002787			
+PROTEIN	s7389	Sst2		c3	inside					FALSE	FALSE	FALSE	bqmodel:is	SGD	S000004444			
+DEGRADED	s7391	sa468_degraded		c3	inside					FALSE	FALSE	FALSE						
+COMPLEX	s6757	GTP Cdc42		c3	insideOfMembrane	s6757(s8709 s8710)	Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7748	Asg7		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000003706			
+COMPLEX	s7752	a-factor/Ste3/Asg7		c3	transmembrane	s7752(s7749(s7757 s7758) s7756)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7754	a-factor/Ste3/Asg7		c3	transmembrane	s7754(s7552(s7762 s7763) s7761)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7759	a-factor/Ste3/Asg7		c3	transmembrane	s7759(s7553(s7313 s7314) s7753)	Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7764	Ste3		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001661			
+COMPLEX	s7768	alpha-factor/Ste2/Sst2		c3	transmembrane	s7768(s7769(s7777 s8693) s7367)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7773	alpha-factor/Ste2/Sst2		c3	transmembrane	s7773(s7774(s7377 s7360) s8691)	Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s7767	Ste2		c3	insideOfMembrane					FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000999			
+COMPLEX	s8686	Mpt5/Sst2		c3	inside	s8686(s7392 s8687)	Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s8688	Rad6		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000002421			
+COMPLEX	s8702	GDP Gpa1/Ste4/Ste18		c3	transmembrane	s8702(s7562(s8706 s8707) s8703 s8704)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8705	Ste4/Ste18		c3	outerSurface	s8705(s142 s141)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8714	GDP Cdc42		c3	insideOfMembrane	s8714(s8715 s8716)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8725	Bem1/GDP/Cdc42		c3	transmembrane	s8725(s8717(s8718 s8719) s125)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8730	Bem1/GTP/Cdc42/Cdc24/Far1/Ste4/Ste18		c3	inside	s8730(s8740(s8727(s8728 s8729) s8732) s8733(s8850(s137 s138) s8734(s8735 s8736)))	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8741	Bem1/GDP/Cdc42/Cdc24/Far1/Ste4/Ste18		c3	inside	s8741(s7592(s153(s155 s156) s8847(s8851 s8852)) s8726(s8722(s8876 s8877) s8721))	Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s8756	Cln1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000004812			
+COMPLEX	s8757	Cdc28/Cln1		c1	inside	s8757(s8764 s8765)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8760	Cdc28/Cln2		c3	inside	s8760(s110 s7445)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8761	Cdc28/Cln1		c3	inside	s8761(s8758 s8759)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8766	Cdc28/Cln1/Far1		c1	inside	s8766(s8771(s8772 s8773) s8767)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8790	Bem1/GTP/Cdc42/Cdc24/Far1/Ste4/Ste18/Ste20		c3	inside	s8790(s8792(s8798(s8799 s8800) s8801(s8802 s8803)) s8791(s8795(s8796 s8797) s8794) s8793)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8806	Ste5/Ste50/Ste11/Ste7/Fus3		c3	inside	s8806(s8809(s8810 s8811) s7138 s8807 s8808)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8812	Ste5/Ste50/Ste11/Ste7/Kss1		c3	inside	s8812(s8815(s8816 s8817) s7332 s8813 s8814)	Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s8818	Msg5		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000004998			
+COMPLEX	s8819	Cdc28/Cln1/Far1		c1	inside	s8819(s8820(s8821 s8822) s8823)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8824	Cdc28/Cln1/Far1		c1	inside	s8824(s8825(s8827 s8828) s8826)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8838	Dig1/Dig2/Ste12		c1	inside	s8838(s6996 s6982 s6984)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8839	GDP/Rsr1		c3	innerSurface	s8839(s8842 s8841)	Amount	0		FALSE	FALSE	FALSE						
+SIMPLE_MOLECULE	s8843	GTP		c3	inside		Amount	0		FALSE	FALSE	FALSE						
+SIMPLE_MOLECULE	s8844	GDP		c3	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s8845	Bud2		c3	outerSurface		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000643			
+PROTEIN	s8846	Bud5		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000634			
+COMPLEX	s8853	Bem1/GDP/Cdc42/Cdc24/GTP/Rsr1		c3	inside	s8853(s8875(s8723 s8724) s8858(s8863(s8861 s8864) s8862) s8854)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8868	Bem1/GTP/Cdc42/Cdc24/GTP/Rsr1		c3	inside	s8868(s8872(s8873 s8874) s8865(s8866(s8870 s8871) s8867) s8869)	Amount	0		FALSE	FALSE	FALSE						
+GENE	s8878	MFA1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s8879	STE6		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s8880	BAR1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s8881	STE6		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s8882	MFA1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s8883	BAR1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s8884	MATalpha1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000636			
+PROTEIN	s8885	MATalpha2		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000635			
+COMPLEX	s8886	Mcm1/MATalpha1		c1	inside	s8886(s8887 s8888)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8889	Mcm1/MATalpha2		c1	inside	s8889(s8890 s8891)	Amount	0		FALSE	FALSE	FALSE						
+GENE	s8892	STE3		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s8893	MF(ALPHA)1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s8894	MF(ALPHA)2		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+GENE	s8895	SAG1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s8896	STE3		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s8897	MF(ALPHA)1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s8898	MF(ALPHA)2		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+RNA	s8899	SAG1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s8900	Bcy1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001295			
+SIMPLE_MOLECULE	s8472	cAMP		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s532	Bcy1		c1	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001295			
+DEGRADED	s8901	s8761		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s7999	Bcy1/Tpk1		c1	inside	s7999(s6568 s6569)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8000	Bcy1/Tpk2		c1	inside	s8000(s8475 s119)	Amount	0		FALSE	FALSE	FALSE						
+COMPLEX	s8001	Bcy1/Tpk1		c1	inside	s8001(s8902 s8110)	Amount	0		FALSE	FALSE	FALSE						
+GENE	s8903	TEC1		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s8904	Mpt5		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000003146			
+PROTEIN	s8906	Ste2		c3	insideOfMembrane		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000000999			
+PROTEIN	s8908	Gpa1		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001047			
+PHENOTYPE	s8910	Pseudohyphal growth		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+PHENOTYPE	s8911	Mating		c1	inside		Amount	0		FALSE	FALSE	FALSE						
+SIMPLE_MOLECULE	s8678	Pi		c3	inside		Amount	0		FALSE	FALSE	FALSE						
+SIMPLE_MOLECULE	s8913	Pi		c3	innerSurface		Amount	0		FALSE	FALSE	FALSE						
+SIMPLE_MOLECULE	s8914	Pi		c3	insideOfMembrane		Amount	0		FALSE	FALSE	FALSE						
+PROTEIN	s8915	Ste6		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000001692			
+PROTEIN	s8916	Mf(alpha)1/2		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000006108			
+PROTEIN	s8917	Cla4		c3	inside		Amount	0		FALSE	FALSE	FALSE	bqmodel:is	SGD	S000005242			
+COMPLEX	s8930	GTP Gpa1/Ste4/Ste18		c3	transmembrane	s8930(s8926(s8927 s8928) s8925 s8929)	Amount	0		FALSE	FALSE	FALSE						
