@@ -1,0 +1,9 @@
+Number of driver nodes:	479
+Fraction of driver nodes:	0.615681233933
+Total number of nodes:	778
+Number of critical nodes:	75
+Number of redundant nodes:	374
+Number of ordinary nodes:	329
+Fraction of critical nodes:	0.0964010282776
+Fraction of redundant nodes:	0.480719794344
+Fraction of ordinary nodes:	0.422879177378
